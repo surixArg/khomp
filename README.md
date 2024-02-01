@@ -1,7 +1,8 @@
 # KHOMP & KIPER
 
 Software for KHOMP and KIPER products.
-[TRELLO](https://trello.com/b/1UfwZpxA/surix)
+
+[TRELLO](https://trello.com/b/1UfwZpxA/surix).
 
 ---
 
