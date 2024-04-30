@@ -10,5 +10,5 @@ Software for KHOMP and KIPER products.
 
 * [KHOMP IPWALL]()
 * [KHOMP ENDPOINT]()
-* [KIPER ACCESS VEICULAR + ACCESS BLE](https://github.com/surixArg/khomp/blob/main/kiper_access/Release/1.0.15.zip)
+* [KIPER ACCESS VEICULAR + ACCESS BLE](https://github.com/surixArg/khomp/blob/main/kiper_access/Release/Release_1.0.15.zip)
 
