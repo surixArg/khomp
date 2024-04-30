@@ -2,7 +2,7 @@
 
 ### Release Version <VERSION>
 
-Compilation Date: <DAY> de <MONTH> de <YEAR>
+Compilation Date: <YEAR>/<MONTH>/<DAY>
 
 Commit Hash: <COMMIT>
 
